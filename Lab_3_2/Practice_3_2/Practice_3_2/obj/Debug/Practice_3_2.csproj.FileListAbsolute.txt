@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\bin\Debug\Practice_3_2.exe.config
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\bin\Debug\Practice_3_2.exe
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\bin\Debug\Practice_3_2.pdb
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\obj\Debug\Practice_3_2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\obj\Debug\Practice_3_2.Form1.resources
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\obj\Debug\Practice_3_2.Properties.Resources.resources
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\obj\Debug\Practice_3_2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\obj\Debug\Practice_3_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\obj\Debug\Practice_3_2.exe
+C:\Users\User\source\repos\Practice_3_2\Practice_3_2\obj\Debug\Practice_3_2.pdb
