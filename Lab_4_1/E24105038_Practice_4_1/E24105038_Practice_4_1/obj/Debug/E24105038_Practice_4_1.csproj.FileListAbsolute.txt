@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\bin\Debug\E24105038_Practice_4_1.exe.config
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\bin\Debug\E24105038_Practice_4_1.exe
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\bin\Debug\E24105038_Practice_4_1.pdb
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\obj\Debug\E24105038_Practice_4_1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\obj\Debug\E24105038_Practice_4_1.Form1.resources
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\obj\Debug\E24105038_Practice_4_1.Properties.Resources.resources
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\obj\Debug\E24105038_Practice_4_1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\obj\Debug\E24105038_Practice_4_1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\obj\Debug\E24105038_Practice_4_1.exe
+C:\Users\User\source\repos\E24105038_Practice_4_1\E24105038_Practice_4_1\obj\Debug\E24105038_Practice_4_1.pdb
